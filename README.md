@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a passionate student stepping into the world o
 - 📫 Feel free to reach out: (mailto:rithishpvt@gmail.com)  
 - 🌐 (https://www.linkedin.com/in/rithish-matta-ab85b8288/).
 
-## Fun Fact  
-- 🌟 "The journey of a thousand miles begins with one step" .
-- I'm just getting started, and I'm excited to learn and grow!
-
 
 
 <!---
